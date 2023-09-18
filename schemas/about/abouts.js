@@ -7,11 +7,11 @@ export default{
             name:'title',
             title:'Title',
             type:'string'
-        },
+        },      
         {
             name:'description',
-            title:'Description',
-            type:'string'
+            title: 'Description',
+            type: 'text',
         },
         {
             name:'imgUrl',
